@@ -1,12 +1,12 @@
 L'éternel est mon berger 
-1 <!DOCTYPE html>
-2 <html lang="en">
-3 <head>
-4   <meta charest="UTF"-8>
-5   <meta name="viewport" content="width=device-witdth, initial-scale=1.0">
-6   <title>document</title>
-7  </head>
-8  <body>
-9
-10 </body>
-11 </html>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charest="UTF"-8>
+   <meta name="viewport" content="width=device-witdth, initial-scale=1.0">
+   <title>document</title>
+  </head>
+  <body>
+
+ </body>
+ </html>
